@@ -1,6 +1,7 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
+  - session_token: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 
+  - email: lisongze@live.com
+    password: LSz@761901
     isGoogleLogin: false
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
